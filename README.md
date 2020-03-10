@@ -16,3 +16,5 @@ Para utilizar:
     > yarn install ou npm install
 * Rodar os testes;
     > yarn test
+
+Assim que os testes forem concluídos, na pasta tests/coverage/lcov-report, o arquivo index.html contém um relatório de cobertura de códigos com os testes, que apresenta quais arquivos/linhas do projeto não foram cobertas pelos testes.
